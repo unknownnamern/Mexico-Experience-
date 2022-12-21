@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Development Assignment
+ </title>
+    </head>
+    <body>
+        <h2><u><strong>Mexico Experience</strong></u></h2> 
+        <div class="side">
+        <img src="https://www.dallasfed.org/-/media/Images/research/update/mex/mexico-city-art.jpg?h=450&w=992&la=en&hash=28EEDD0B378476CC7F180D8A2E22A882">
+        </div>
+        <h4>My Experience in mexiico was a good one but also a bad one. I loved all the nature but I did get sick.I haven't been there in a while but I would love to go back. The picture that is seen here is located in the Capital of Mexico. </h4>
+        <div class="Next Page">
+        <button>Next Page</button>
+            <div class="message"></div>
+        </div>
+    </body>
+</html>
+
+
+
+body {
+    background-color: #006400;
+    padding-top: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #ff0000;
+    font-weight: lighter;
+}
+
+.login {
+    width: 350px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid rgb(200,200,200);
+    border-top: 3px solid #ef5330;
+    padding: 30px 25px;
+}
+
+p {
+    color: #3f3b39;
+}
+
+input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+button {
+    display: block;
+    font-size: 16px;
+    padding: 10px 20px 8px;
+    margin-top: 20px;
+}
+img{
+    width:500px;
+    height:200px;
+    border: solid 2px white;
+}
